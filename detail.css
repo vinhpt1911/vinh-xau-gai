@@ -1,0 +1,43 @@
+.hinh{
+    float: left;
+    
+    height: 200px;
+    background-color:rgb(233, 128, 90);
+    width: 30%;
+    background: url('hinh4.jpg');
+}
+.thongthin{
+    
+    float: right;
+
+}
+.detai{
+    margin-top: 100px;
+}
+.title{
+    
+    text-align: center;
+    font-size: larger;
+}
+.gia{
+    color: orange;
+    font-size: larger;
+    text-align: center;
+}
+.h{
+    background-color: orangered;
+    color: white;
+    text-align:center;
+    font-size: 18px;
+    width: 100px;
+    height: 50px;
+    margin-left: 450px;
+    margin-bottom: 10px;
+}
+.h:hover{background-color: rgba(255, 68, 0, 0.61);
+    color: black;
+}
+.coment{
+   
+    margin-left: 190px;
+}
